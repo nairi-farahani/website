@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  border-bottom: rgb(95, 90, 90) 2px solid;
+}
+.div-header {
+  width: 80%;
+  height: 100%;
+}
+
+ul {
+  padding-top: 15px;
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+}
