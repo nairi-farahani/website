@@ -52,7 +52,8 @@
   border-radius: 5px;
 }
 button {
-  width: 55px;
+  padding: 5px;
+  width: fit-content;
   height: fit-content;
   background-color: red;
   border-radius: 5px;
